@@ -1,6 +1,6 @@
 /*
  * File: 10-check_cycle.c
- * Author: Yovo Koffi Vianney
+ * Author: Vick
  */
 
 #include <stdlib.h>
