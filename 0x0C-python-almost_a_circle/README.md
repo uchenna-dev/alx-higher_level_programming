@@ -1,1 +1,1 @@
-this ia a readme for almost a circle
+creating models and tests
