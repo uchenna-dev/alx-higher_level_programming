@@ -1,3 +1,3 @@
 #!/bin/bash
 # display the only the content of the body
-curl -sL "$1"
+curl -s -L "$1"
